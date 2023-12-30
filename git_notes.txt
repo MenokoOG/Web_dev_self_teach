@@ -1,1 +1,9 @@
 need to start repos for folders and then commit to github 12-29-23
+
+
+
+git remote add origin https://github.com/MenokoOG/Web_dev_self_teach.git
+git branch -M main
+git push -u origin main
+
+pushed to github 12-30-23
